@@ -3,7 +3,7 @@
         "code": "200",
         "message": "true",
         "data": {
-            "is": 1,
+            "is": 0,
             "landscape": "US",
             "game": "TeenPattiStar",
             "version": 100
